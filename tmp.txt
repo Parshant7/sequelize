@@ -1,0 +1,7 @@
+replyTable                                          groupMessage
+
+replyToMessageId    one to many                     parentId
+hasMany()
+
+replyMessageId                                      parentId
+                   one to many
